@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_logo_small_light_padded_more)">
+    <path d="M256 0H0V256H256V0Z" fill="white"/>
+
+    <!-- Logo (scaled + centered with padding) -->
+    <g transform="translate(24 24) scale(0.812500)">
+      <path d="M128 0H256V85.3333H128V0Z" fill="#FBC241"/>
+      <circle cx="42.6667" cy="42.6667" r="42.6667" fill="#FBC241"/>
+      <path d="M128 256C198.6927 256 256 198.6927 256 128H170.6667C170.6667 151.5639 151.5639 170.6667 128 170.6667C104.4361 170.6667 85.3333 151.5639 85.3333 128H0C0 198.6927 57.3075 256 128 256Z" fill="#FBC241"/>
+    </g>
+  </g>
+
+  <defs>
+    <clipPath id="clip0_logo_small_light_padded_more">
+      <rect width="256" height="256" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
