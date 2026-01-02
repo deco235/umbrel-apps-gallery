@@ -1,9 +1,9 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g clip-path="url(#clip0_logo_small_light_padded)">
-    <path d="M256 0H0V256H256V0Z" fill="#141414"/>
+    <path d="M256 0H0V256H256V0Z" fill="#222C32"/>
 
     <!-- Logo (scaled + centered with padding) -->
-    <g transform="translate(16 16) scale(0.875000)">
+    <g transform="translate(32 36) scale(0.750000)">
       <!-- Top-right block -->
       <path d="M128 0H256V85.3333H128V0Z" fill="#FBC241"/>
 
