@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="56" fill="#222C32"/>
+  <!-- Caja de registro: tres capas apiladas. -->
+  <rect x="56" y="64" width="144" height="34" rx="10" fill="#4FA3FF"/>
+  <rect x="56" y="110" width="144" height="34" rx="10" fill="#3B8BE0"/>
+  <rect x="56" y="156" width="144" height="34" rx="10" fill="#2E73BF"/>
+  <!-- Flecha de reenvío (pull-through). -->
+  <path d="M128 40 L152 60 L136 60 L136 72 L120 72 L120 60 L104 60 Z" fill="#E5E7EB"/>
+  <circle cx="186" cy="81" r="6" fill="#E5E7EB"/>
+  <circle cx="186" cy="127" r="6" fill="#E5E7EB"/>
+  <circle cx="186" cy="173" r="6" fill="#E5E7EB"/>
+</svg>
